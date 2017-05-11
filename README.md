@@ -6,5 +6,5 @@ This script has written for Spidr Core Departmant in Netas by Ersin CEYLAN.
 
 ---
 
-  python deneme.py --dirOld --dirNew
+  python deneme.py <dirOld> <dirNew>
 
