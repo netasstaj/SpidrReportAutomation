@@ -6,6 +6,7 @@ This script has written for Spidr Core Departmant in Netas by Intern Ersin CEYLA
 
 
  The aim is after every release of SPiDR, automation of the prepared report.
+ 
 
 ---
 
@@ -20,7 +21,6 @@ This script has written for Spidr Core Departmant in Netas by Intern Ersin CEYLA
 ---
 
 ## Usage
----
 
   `python run.py --dirOld --dirNew `
 
