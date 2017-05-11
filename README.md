@@ -1,10 +1,23 @@
 # SpidrReportAutomation
 
-This script has written for Spidr Core Departmant in Netas by Ersin CEYLAN.
+This script has written for Spidr Core Departmant in Netas by Intern Ersin CEYLAN.
 
-## Usage
-
+## Introduction
 ---
 
-  python deneme.py <dirOld> <dirNew>
+ The aim is after every release of SPiDR, sutomation of the prepared report.
+
+## Components
+---
+
+* Python
+* HTML
+* Makefile
+* JavaScript
+
+
+## Usage
+---
+
+  `python run.py --dirOld --dirNew `
 
